@@ -1,5 +1,5 @@
 # World Time
-Link to view app:
+Link to view app: http://timeworld.online/
 
 Administrator credentials: email: markodasic70@gmail.com password: VisokaIct1.
 
